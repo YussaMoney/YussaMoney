@@ -68,7 +68,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/stats-output/stats.svg" height="220" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=YussaMoney&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="220" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=YussaMoney&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="220" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -107,6 +107,6 @@
 
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula" alt="Random Quote" />
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default" alt="Random Quote" />
   </a>
 </div>
