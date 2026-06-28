@@ -67,14 +67,14 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=YussaMoney&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/stats-output/stats.svg" height="220" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=YussaMoney&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="220" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true" height="200" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/languages-output/languages.svg" width="600" alt="Top Languages" />
 </div>
 
 ---
@@ -90,7 +90,7 @@
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/activity-graph-output/activity-graph.svg?custom_title=My%20Contribution%20Graph&theme=monokai&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/activity-graph-output/activity-graph.svg" alt="Contribution Graph" />
 </div>
 
 ---
@@ -99,22 +99,14 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/snake-output/snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
----
-
-<div align="center">
+  <br/><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YussaMoney.YussaMoney&left_text=Profile%20Views" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-
-### 💭 Favorite Quotes
-
-> **"Good code solves today's problem. Great code makes tomorrow's work easier."**
-
-> **"Every expert was once a beginner who refused to quit."**
-
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula" alt="Random Quote" />
+  </a>
 </div>
