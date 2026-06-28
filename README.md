@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Yusuf Abdulazeez</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">
-  Frontend Developer • React Enthusiast • Lifelong Learner
-</h3>
+<h1 align="center">I'm Yusuf Abdulazeez</h1>
 
 <p align="center">
-  I build clean, responsive, and user-focused web applications with modern web technologies.<br/>
-  I'm passionate about understanding <strong>why</strong> code works, writing maintainable software, and continuously improving as a developer.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff79c6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  </picture>
 </p>
-
----
 
 ## 🚀 About Me
 
