@@ -61,6 +61,49 @@ I'm passionate about understanding <strong>why</strong> code works, writing main
 
 ## 📈 GitHub Analytics
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="398" alt="stats graph"  />
+
+<img src="https://streak-stats.demolab.com?user=YussaMoney&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="400" alt="streak graph"  />
+
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true" height="400" alt="languages graph"  />
+  </div>
+
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/trophy-output/trophy.svg?theme=algolia&column=4&row=3&margin-w=5&margin-h=5&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/activity-graph-output/activity-graph.svg?custom_title=My%20Contribution%20Graph&theme=monokai&area=true&hide_border=true&hide_title=true" height="400" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=YussaMoney.YussaMoney&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<!-- <div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20GitHub%20Stats" height="400" alt="stats graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=YussaMoney&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+  </div>
+
+---
+
+### Most Used Languages
+
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=3&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/trophy-output/trophy.svg?theme=dracula&column=4&row=3&margin-w=5&margin-h=5&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/activity-graph-output/activity-graph.svg?custom_title=My%20Contribution%20Graph&theme=monokai&area=true" height="150" alt="activity-graph graph"  />
+</div> -->
+
 ---
 
 ## 🏆 Achievements
