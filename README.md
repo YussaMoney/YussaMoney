@@ -65,14 +65,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/stats-output/stats.svg" height="220" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=YussaMoney&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="220" alt="GitHub Streak" /> <br/>
+  <img src="https://streak-stats.demolab.com?user=YussaMoney&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="220" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/YussaMoney/YussaMoney/languages-output/languages.svg" width="600" alt="Top Languages" />
 </div>
-
-<div align="center">
-</div>
-
----
 
 ## 🏆 Achievements
 
