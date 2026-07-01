@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br/><br/>I'm Yusuf Abdulazeez</h1>
 
 <p align="center">
-  <picture align="">
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff79c6&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff79c6&center=true&vCenter=true&letterSpacing=7px&width=650&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&letterSpacing=7px&width=650&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&letterSpacing=7px&width=650&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
   </picture>
 </p>
 
