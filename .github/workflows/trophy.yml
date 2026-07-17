@@ -19,19 +19,20 @@ jobs:
 
     steps:
       - name: generate trophy.svg
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: ryo-ma/github-profile-trophy@v2
         with:
           username: ${{ github.repository_owner }}
-          file: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dracula
-          max-cols: 4
-          max-rows: 3
-          margin-width: 5
-          margin-height: 5
-          no-background: false
-          no-frame: false
-          titles: "-Issues,-Reviews"
+          theme: algolia
+          column: 4
+          row: 3
+          margin-w: 5
+          margin-h: 5
+          no-background: true
+          no-frame: true
+          title: -Issues,-Reviews
+          outputs: dist/trophy.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: push trophy.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
