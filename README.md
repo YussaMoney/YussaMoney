@@ -2,20 +2,24 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff79c6&center=true&vCenter=true&letterSpacing=7px&width=650&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&letterSpacing=7px&width=650&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&letterSpacing=7px&width=650&lines=Frontend+Developer;React+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff79c6&center=true&vCenter=true&letterSpacing=7px&width=650&lines=Full-Stack+Developer;React+Enthusiast;Lifelong+Learner">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&letterSpacing=7px&width=650&lines=Full-Stack+Developer;React+Enthusiast;Lifelong+Learner">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969da&center=true&vCenter=true&letterSpacing=7px&width=650&lines=Full-Stack+Developer;React+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
   </picture>
 </p>
 
 ## 🚀 About Me
 
-- 🌱 Currently deepening my knowledge of **React**, **JavaScript**, and modern frontend development
-- 💻 Building production-ready projects that emphasize clean architecture and maintainable code
-- 🎨 Passionate about creating intuitive, responsive, and accessible user interfaces
-- 📚 Expanding into **Node.js**, **MongoDB**, and full-stack development
-- 🚀 Constantly learning, experimenting, and improving through hands-on projects
+- 🤝 Contributing to [**AMEN Africa**](https://github.com/amen-africa/amen), a nonprofit tech platform — recently shipped the awards nomination & verification flow
+- 💻 Collaborating on **Etech**, a React app with Google OAuth and a live backend
+- 🌱 Building across the stack with **React**, **JavaScript**, **Node.js**, and **MongoDB**
 - 🎯 Goal: Become a well-rounded software engineer who builds scalable, real-world applications
+
+## 🔨 What I'm Building Lately
+
+- **[AMEN Africa](https://github.com/amen-africa/amen)** — nonprofit platform; shipped the Awards nomination flow, nominator verification codes, and category/nominee pages
+- **[Etech](https://github.com/Phawaaaz/Etech)** — React frontend now wired to a real backend, with Google OAuth sign-in
+- **This profile** — automated with GitHub Actions to keep stats, trophies, and the contribution snake fresh
 
 ## 📫 Let's Connect
 
@@ -25,7 +29,7 @@
   <a href="mailto:highshow74@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/yussamoney" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="LinkedIn" /></a>
   <a href="https://wa.me/2348078773063" target="_blank"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="WhatsApp" /></a>
-  <a href="https://twitter.com/0xyussa" target="_blank"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="X (Twitter)" /></a>
+  <a href="https://x.com/Yussassiph" target="_blank"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="X (Twitter)" /></a>
 </div>
 
 ## 🛠 Tech Stack
@@ -42,7 +46,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="30" alt="Markdown"/>
 </div>
 
-### Backend (Currently Learning)
+### Backend
 
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/>
